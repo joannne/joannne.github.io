@@ -1,0 +1,8 @@
+title: 'joanne koong'
+github: 'joannne'
+
+markdown: kramdown
+
+sass:
+  sass_dir: css
+  style:    expanded
